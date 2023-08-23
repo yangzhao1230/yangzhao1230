@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yangzhao1230
+- 👋 Hi, I’m @yangzhao1230.
 - 👀 I want to work hard while also striving to become more chill.
 <!---
 - 🌱 I’m currently learning ...
