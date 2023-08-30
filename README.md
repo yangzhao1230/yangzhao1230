@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yangzhao1230&label=Profile%20views&color=0e75b6&style=flat" alt="ddz16" /> </p>
 - 👋 Hi, I’m @yangzhao1230.
 <!---
 - 👀 I want to work hard while also striving to become more chill.
