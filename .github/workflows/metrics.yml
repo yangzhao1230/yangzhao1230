@@ -25,11 +25,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Rakers1024
+          user: yangzhao1230
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Beijing
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_isocalendar: yes
