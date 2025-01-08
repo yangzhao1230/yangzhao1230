@@ -1,4 +1,4 @@
-👋 Hi, I’m @yangzhao1230.
+👋 Hi.
 
 👀 I'm a third-year PhD student at @RUC, with a research interest in AI4Bio, particularly sequence modeling for Proteins and DNA.
 
