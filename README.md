@@ -1,6 +1,6 @@
 👋 Hi.
 
-👀 I'm a third-year PhD student at @RUC, with a research interest in AI4Bio, particularly sequence modeling for Proteins and DNA.
+👀 I'm a third-year PhD student at @RUC, with a research interest in AI4Bio, particularly sequence modeling for Proteins and DNA 🧬.
 
 📫 Feel free to reach out to me at yangyz1230@gmail.com for collaborations or discussions
 
